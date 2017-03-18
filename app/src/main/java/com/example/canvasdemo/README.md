@@ -1,26 +1,15 @@
-#MARKDOWN 从入门到精通
-
-####导语：
-
+# MARKDOWN 从入门到精
+### 导语:
 * 1
 * 2
 * 3
-- 1
-- 2
-1. 1
-2. 1
 
 >这里是引用
 
-##插入链接
-
+### 插入链接
 [baidu](http://baidu.com)
-
-
-###插入图片
-
+### 插入图片
 ![Mou icon](http://i.imgur.com/EP6Qxic.gif)
-
 
 *斜体*
 
